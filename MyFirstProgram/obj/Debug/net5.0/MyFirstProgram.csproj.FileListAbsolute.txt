@@ -1,0 +1,15 @@
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.deps.json
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.runtimeconfig.json
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.runtimeconfig.dev.json
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.dll
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/ref/MyFirstProgram.dll
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.pdb
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.csproj.AssemblyReference.cache
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.AssemblyInfo.cs
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.dll
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/ref/MyFirstProgram.dll
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.pdb
+/Users/acarlin/learning_repos/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.genruntimeconfig.cache
